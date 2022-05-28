@@ -17,12 +17,12 @@ Think about what could be going wrong with our calculation. Think about a better
 What metric would you report for this dataset?
 What is its value?
 
-## Outliers have the ability to cause issues in our statistical analysis, as larger outliers can increase the 
-## value of our mean. Upon analysis of the data, we discovered that the largest outlier was $704,000. 
+Outliers have the ability to cause issues in our statistical analysis, as larger outliers can increase the 
+value of our mean. Upon analysis of the data, we discovered that the largest outlier was $704,000. 
 
-## Determining the median, which is $284, would be a more effective way of determining the central tendency 
-## of the data. Also, observing the range of data between the lower and upper quartile ($163 and $390, respectively) 
-## tells us that though the average is $3145.13 is inaccurate if we are observing central tendencies of our data.
+Determining the median, which is $284, would be a more effective way of determining the central tendency 
+of the data. Also, observing the range of data between the lower and upper quartile ($163 and $390, respectively) 
+tells us that though the average is $3145.13 is inaccurate if we are observing central tendencies of our data.
 
 
 
